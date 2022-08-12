@@ -5,7 +5,7 @@ A Flutter application that displays a list of photos as a gallery. Users can tap
 with the possibility to zoom in and out.
 
 ## Features
-1. Uses Unsplash API Documentation | List of Photos to get a list of photos and build a gallery of photos
+1. Uses [Unsplash API Documentation | List of Photos](https://unsplash.com/documentation#list-photos) to get a list of photos and build a gallery of photos
 2. The user can tap the photo and can see a full-screen view of the photo and also can zoom the photo
 3. The user has an infinite scroll on the gallery screen
 
